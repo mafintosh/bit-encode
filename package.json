@@ -1,0 +1,24 @@
+{
+  "name": "bit-encode",
+  "version": "0.0.0",
+  "description": "WIP - nothing to see here",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^7.1.2",
+    "tape": "^4.6.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/bit-encode.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/bit-encode/issues"
+  },
+  "homepage": "https://github.com/mafintosh/bit-encode"
+}
