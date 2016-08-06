@@ -6,6 +6,8 @@ Low level bit encoder for buffers
 npm install bit-encode
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/bit-encode.svg?style=flat)](http://travis-ci.org/mafintosh/bit-encode)
+
 ## Usage
 
 ``` js

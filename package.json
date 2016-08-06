@@ -1,7 +1,7 @@
 {
   "name": "bit-encode",
   "version": "0.0.0",
-  "description": "WIP - nothing to see here",
+  "description": "Low level bit encoder for buffers",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
